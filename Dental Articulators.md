@@ -1,5 +1,8 @@
 # Design of Dental Articulators for Educational Material in the Faculty of Dentistry
 
+<iframe width="360" height="640" src="https://www.youtube.com/embed/7Px6B9N6Rtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Introduction
 In collaboration with the Faculty of Dentistry, a project was developed to design dental articulators based on old examples with the objective of providing educational material for student practice.
 
