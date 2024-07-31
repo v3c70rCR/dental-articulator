@@ -30,7 +30,7 @@ In collaboration with the Faculty of Dentistry, a project was developed to desig
 ## Results
 The project resulted in the production of a functional and durable dental articulator suitable for use in dental practices. The designed articulators provide a valuable tool for student training, allowing them to experiment with various conditions and mandibular issues in a controlled environment.
 
-<img src="[https://github.com/yourusername/yourrepository/raw/main/path/to/your/image.jpg](https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Oclusor%20final.JPG)" alt="Dental Articulators" width="300" height="200">
+<img src="https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Oclusor%20final.JPG?raw=true" alt="Dental Articulators" width="300" height="200">
 
 
 ## Conclusion
