@@ -16,11 +16,12 @@ In collaboration with the Faculty of Dentistry, a project was developed to desig
    - The processed gums were imported into Fusion 360, where the new dental articulator was designed. The design was based on the proportions of the old articulator model, which served as a guide.
    - The new articulator was designed to be articulated and to allow horizontal movement of the jaw, thus simulating different mandibular morphologies according to individual patient needs.
 
-<img src="https://github.com/user-attachments/assets/22ad6de3-3ae5-478a-84f7-766f8515d39b" alt="3D view" width="384" height="512">
+| ![3D view 1](https://github.com/user-attachments/assets/22ad6de3-3ae5-478a-84f7-766f8515d39b) | ![3D view 2](https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Frontal%203D.png?raw=true) | ![3D view 3](https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Lateral%203D.png?raw=true) |
+|:--:|:--:|:--:|
+| 3D view 1 | 3D view 2 | 3D view 3 |
 
-<img src="https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Frontal%203D.png?raw=true" alt="3D view" width="384" height="512">
 
-<img src="https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Lateral%203D.png?raw=true" alt="3D view" width="384" height="512">
+
 
 4. **3D Printing:**
    - The final design was exported and prepared for printing using the Cura software.
